@@ -12,3 +12,5 @@ Users are able to add an event and save it, when the save button is clicked I en
 I also created a clear button so if the user wanted to clear their planner/scheduler they can click this to do so.
 
 ![Alt text](images/image.png)
+
+https://sophieainsw.github.io/work-day-scheduler/
